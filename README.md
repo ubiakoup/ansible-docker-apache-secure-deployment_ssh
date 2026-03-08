@@ -72,7 +72,7 @@ This will:
 After deployment, the web page is accessible at:
 
 ```
-http://<CLIENT_IP>
+http://<CLIENT_IP>:80
 ```
 
 The page will display:
