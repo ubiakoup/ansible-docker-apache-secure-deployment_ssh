@@ -1,4 +1,3 @@
-```markdown
 # Ansible Secure Web Application Deployment
 
 This project demonstrates how to automate the deployment of a web application using **Ansible**, while following **security best practices** such as **Ansible Vault for secret management** and **SSH key authentication**.
@@ -152,4 +151,3 @@ docker ps
 **Ulrich Kouatang**
 Industrials Devops Engeneer|Industial IoT
 
-```
